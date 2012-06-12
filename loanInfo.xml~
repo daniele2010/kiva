@@ -6,7 +6,7 @@
     <bindings>
         <select itemPath="json.loans" produces="JSON">
             <urls>
-                <url>http://api.kivaws.org/v1/loans/{ids}.json</url>
+                <url>https://github.com/ObadaAlexandru/kiva/blob/master/{ids}.json</url>
             </urls>
             <inputs>
                 <key id='ids' type='xs:string' paramType='path' required="true" />
