@@ -1,0 +1,3 @@
+{	
+   "loans":[
+	{"id":1,"name":"Fattoria 1","description":{"languages":["en"],"texts":{"en":"description 1"}},"status":"fundraising","fund_amount":25,"basket_amount":0,"image":{"id":1115685,"template_id":1}},"sector":"Agricultura","location":{"country_code":"IT","country":"Italy","town":"Rome","geo":{"level":"country","pairs":"13 105","type":"point"}}}
