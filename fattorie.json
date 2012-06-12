@@ -1,4 +1,4 @@
 {
-"fattorie":[
+"loans":[
 	{"id":1,"name":"Fattoria 1","description":{"languages":["en"]},"sector":"Agricultura","location":{"country_code":"IT","country":"Italy","town":"Rome","geo":{"level":"country","pairs":"13 105","point"}}}
 }
