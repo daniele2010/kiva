@@ -10,7 +10,7 @@
 
    <select itemPath="json.loans" produces="JSON">
       <urls>
-        <url env="all">https://github.com/ObadaAlexandru/kiva/blob/master/loans.json</url>
+        <url env="all">https://raw.github.com/ObadaAlexandru/kiva/master/loans.json</url>
       </urls>
       <paging model="page">
         <start id="page" default="1" />
